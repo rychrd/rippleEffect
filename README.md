@@ -1,4 +1,3 @@
 # rippleEffect
 simple linear ripple
-
-A first attempt at a hand-rolled image filter
+a first attempt at a hand-rolled image filter
